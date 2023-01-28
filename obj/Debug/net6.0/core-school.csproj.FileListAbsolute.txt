@@ -1,0 +1,15 @@
+C:\Users\httpg\Documents\CoreSchool\core-school\bin\Debug\net6.0\core-school.exe
+C:\Users\httpg\Documents\CoreSchool\core-school\bin\Debug\net6.0\core-school.deps.json
+C:\Users\httpg\Documents\CoreSchool\core-school\bin\Debug\net6.0\core-school.runtimeconfig.json
+C:\Users\httpg\Documents\CoreSchool\core-school\bin\Debug\net6.0\core-school.dll
+C:\Users\httpg\Documents\CoreSchool\core-school\bin\Debug\net6.0\core-school.pdb
+C:\Users\httpg\Documents\CoreSchool\core-school\obj\Debug\net6.0\core-school.csproj.AssemblyReference.cache
+C:\Users\httpg\Documents\CoreSchool\core-school\obj\Debug\net6.0\core-school.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\httpg\Documents\CoreSchool\core-school\obj\Debug\net6.0\core-school.AssemblyInfoInputs.cache
+C:\Users\httpg\Documents\CoreSchool\core-school\obj\Debug\net6.0\core-school.AssemblyInfo.cs
+C:\Users\httpg\Documents\CoreSchool\core-school\obj\Debug\net6.0\core-school.csproj.CoreCompileInputs.cache
+C:\Users\httpg\Documents\CoreSchool\core-school\obj\Debug\net6.0\core-school.dll
+C:\Users\httpg\Documents\CoreSchool\core-school\obj\Debug\net6.0\refint\core-school.dll
+C:\Users\httpg\Documents\CoreSchool\core-school\obj\Debug\net6.0\core-school.pdb
+C:\Users\httpg\Documents\CoreSchool\core-school\obj\Debug\net6.0\core-school.genruntimeconfig.cache
+C:\Users\httpg\Documents\CoreSchool\core-school\obj\Debug\net6.0\ref\core-school.dll
