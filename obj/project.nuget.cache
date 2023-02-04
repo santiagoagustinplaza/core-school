@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UTj6rl/+en6rG8w6OX/SFfIFe0Ylg31HWtofFcGAs/QaCg9y6mEiEYT5jtaCE/PtTNuOH0ptuuQ+JCQixQIHtQ==",
+  "dgSpecHash": "MnJ9Ejom12pt223yfZ7uF3CpiU8/fm2l+7ddk4v4Vex4Dpc1Dh9XkyopMVdkUbmBXG22B5rQ1d8NXDVhTUhG3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\httpg\\Documents\\CoreSchool\\core-school\\core-school.csproj",
+  "projectFilePath": "/home/agustin/Documents/Projects/core-school/core-school.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
